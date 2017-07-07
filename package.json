@@ -1,0 +1,30 @@
+{
+    "name": "oopjs",
+    "version": "1.0.0",
+    "description": "A program developed to aid my understanding of javascript OOP concepts",
+    "main": "main/oop.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "mocha test/test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/owolabiezekiel/OOPJS.git"
+    },
+    "keywords": [
+        "OOP",
+        "inheritance"
+    ],
+    "author": "owolabi tobiloba",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/owolabiezekiel/OOPJS/issues"
+    },
+    "homepage": "https://github.com/owolabiezekiel/OOPJS#readme",
+    "dependencies": {
+        "chai": "^4.0.2",
+        "mocha": "^3.4.2"
+    }
+}
